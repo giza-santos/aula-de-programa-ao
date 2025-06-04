@@ -8,4 +8,6 @@ public static void main(String[] args) {
     System.out.println("digite a primeira nota");
     nota1= scanner.nextFloat();
 
+    // comentario novo
+
 }
